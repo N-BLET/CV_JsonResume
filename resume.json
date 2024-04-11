@@ -1,0 +1,481 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Nicolas BLET",
+    "label": "Développeur back-end",
+    "image": "",
+    "email": "nicolas.blet@hotmail.com",
+    "phone": "06.63.49.03.39.",
+    "url": "",
+    "summary": "Je suis actuellement en alternance en tant que développeur chez ABAS-FORTERRO (entreprise d’erp) en pleine reconversion professionnelle, tout en poursuivant un bachelor devops à l'EPSI. J'ai repris mes études en 2020 au CNAM pour décrocher un RNCP de niveau 5 en développement informatique. Mon parcours professionnel précédent m'a permis d'acquérir des compétences en tant que responsable SIC, chef d'équipe, et gestionnaire d'équipement, de maintenance et d'approvisionnement au sein du ministère des armées. Je suis convaincu que ces compétences, combinées à ma réorientation professionnelle, seront un atout précieux pour votre entreprise.",
+    "location": {
+      "countryCode": "FR",
+      "address": "29 rue des Halles\n69230 ST GENIS LAVAL"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "nicolas-blet-5720b859",
+        "url": "https://www.linkedin.com/in/nicolas-blet-5720b859/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ABAS France",
+      "position": "Développeur",
+      "startDate": "2023-09-30",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/abas-france/",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Armée de Terre",
+      "position": "Développeur logiciels",
+      "startDate": "2023-05-31",
+      "endDate": "2023-08-31",
+      "highlights": [],
+      "summary": "Développement d’un logiciel d’envergure nationale pour assurer la gestion des différents parcs instrumentaux des musiques militaires de l’armée de Terre.\nTechno : PHP, Symfony, Doctrine et Twig",
+      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "location": "Rennes, Bretagne, France"
+    },
+    {
+      "name": "Armée de Terre",
+      "position": "Chef d’équipe",
+      "startDate": "2017-09-30",
+      "endDate": "2023-05-31",
+      "highlights": [],
+      "summary": "Responsable du pupitre des clarinettes (10 personnes) de la musique militaire de Lyon.\n• Gestion de l’effectif.\n• Répartition des missions\n• Adhésion de tous aux projets de l’orchestre.\n• Coordination du recrutement",
+      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Armée de Terre",
+      "position": "Clarinettiste",
+      "startDate": "2015-09-30",
+      "endDate": "2023-04-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "location": "Lyon"
+    },
+    {
+      "name": "Armée de Terre",
+      "position": "Gestionnaire du parc instrumental de la musique militaire de Lyon",
+      "startDate": "2016-09-30",
+      "endDate": "2022-12-31",
+      "highlights": [],
+      "summary": "• Gestion du parc instrumental : acquisition, renouvellement, réforme, maintenance, fret pour les déplacements à l’étranger.\n• Mise en place de TCD avec Excel puis le développement d’un logiciel en ligne pour assurer la bonne gestion.\n• Adapter les locaux du magasin aux nouvelles normes.",
+      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Armée de Terre",
+      "position": "Responsable des systèmes d’information et de communication de la musique militaire de Lyon",
+      "startDate": "2015-09-30",
+      "endDate": "2017-09-30",
+      "highlights": [],
+      "summary": "• Gestion du parc informatique : acquisition, renouvellement, réforme.\n• Commande de nouveaux logiciels répondant aux problématiques des utilisateurs\n• Assister les utilisateurs.",
+      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Armée de Terre",
+      "position": "Clarinettiste",
+      "startDate": "2010-07-31",
+      "endDate": "2015-08-31",
+      "highlights": [],
+      "summary": "Musique Principale de l'Armée de Terre",
+      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "location": "Versailles"
+    },
+    {
+      "name": "Armée de Terre",
+      "position": "Clarinettiste",
+      "startDate": "2006-03-31",
+      "endDate": "2010-07-31",
+      "highlights": [],
+      "summary": "Musique des Transmissions",
+      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "location": "Versailles, Île-de-France, France"
+    },
+    {
+      "name": "Compagnie les \"ArtGon'Notes\"",
+      "position": "Fondateur et artiste du spectacle \"Un chat sur la toile\"",
+      "startDate": "2020-01-31",
+      "endDate": "2023-08-31",
+      "highlights": [],
+      "summary": "À l'origine de ce conte musical en tant qu'initiateur, j'ai orchestré la commande auprès du compositeur, le recrutement des artistes pour la compagnie \"les ArtGon'Notes\", et la mise en place du support pédagogique. \n\n\"Le Chat sur la toile\", un récit enchanteur porté par une petite mélodie, explore l'univers singulier du chat Mallow. Avec des notes gaies, douces, parfois sourdes et en colère, ce spectacle, né de ma passion, offre une expérience immersive aux enfants du primaire, tout en cultivant leur curiosité musicale et artistique.",
+      "url": ""
+    },
+    {
+      "name": "Centre Musical & Artistique \"CM&A\"",
+      "position": "Professeur de clarinette",
+      "startDate": "2016-01-31",
+      "endDate": "2020-09-30",
+      "highlights": [],
+      "url": "",
+      "location": "Saint-Genis-Laval, Rhône-Alpes, France"
+    },
+    {
+      "name": "Globe-gratteurs",
+      "position": "Clarinettiste",
+      "startDate": "2016-12-31",
+      "endDate": "2020-07-31",
+      "highlights": [],
+      "summary": "Groupe lyonnais de variété française",
+      "url": "",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Klar’Event",
+      "position": "Fondateur et clarinettiste basse",
+      "startDate": "2013-01-31",
+      "endDate": "2015-09-30",
+      "highlights": [],
+      "summary": "Klar’Event était un quintette de clarinettes et percussions. Ce groupe proposait spectacles, concerts, présentations d’instruments, et soirée privée.",
+      "url": "",
+      "location": "Paris et périphérie"
+    },
+    {
+      "name": "Symphonifilm / Monstre Orchestra",
+      "position": "clarinettiste",
+      "startDate": "2011-12-31",
+      "endDate": "2015-09-30",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "Ecole de musique du Chesnay (78)",
+      "position": "Professeur de clarinette",
+      "startDate": "2009-09-30",
+      "endDate": "2015-08-31",
+      "highlights": [],
+      "url": "",
+      "location": "Le Chesnay, Île-de-France, France"
+    },
+    {
+      "name": "Diverses écoles de musique de la région Centre",
+      "position": "Professeur de clarinette",
+      "startDate": "2001-09-30",
+      "endDate": "2006-08-31",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "EPSI - L'école d'ingénierie informatique",
+      "area": "Programmation informatique, applications spécifiques",
+      "studyType": "Bachelor",
+      "startDate": "2023-09-30",
+      "endDate": "2024-09-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Conservatoire National des Arts et Métiers",
+      "area": "Programmation informatique, applications spécifiques",
+      "studyType": "RNCP Niveau 5 Technicien développeur",
+      "startDate": "2020-01-31",
+      "endDate": "2023-07-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Sololearn",
+      "area": "Développement web",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CRR de CRETEIL",
+      "area": "Clarinette basse",
+      "studyType": "",
+      "startDate": "2009-12-31",
+      "endDate": "2010-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CRR de TOURS (37)",
+      "area": "",
+      "studyType": "Premier prix de clarinette",
+      "startDate": "2001-12-31",
+      "endDate": "2007-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ENM d'AULNAY/BOIS",
+      "area": "",
+      "studyType": "",
+      "startDate": "2004-12-31",
+      "endDate": "2005-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "L'essentiel de Java",
+      "issuer": "LinkedIn",
+      "startDate": "2024-03-31",
+      "url": "https://www.linkedin.com/learning/certificates/b6a309baab3aca5aa66ca249c008b1c10c0f79d3d192d3f6f93ef1409c399b42?trk=flagship-lil_details_certification"
+    },
+    {
+      "name": "MOOC - Sécurité des systèmes d'information",
+      "issuer": "ANSSI - Agence nationale de la sécurité des systèmes d'information",
+      "startDate": "2022-11-30",
+      "url": "https://1drv.ms/b/s!Anvag74D4iR_oBn8Sk1EZtZAmefc?e=ApQ2mv"
+    },
+    {
+      "name": "Certificat professionnel de musicien d’orchestre Niveau 6 (Bac +4)",
+      "issuer": "Ministère des Armées",
+      "startDate": "2014-03-31",
+      "url": "https://www.francecompetences.fr/recherche/rncp/15337/"
+    },
+    {
+      "name": "Diplôme d’État de professeur de clarinette",
+      "issuer": "Ministère de la Culture",
+      "startDate": "2013-07-31",
+      "url": "https://www.francecompetences.fr/recherche/rncp/27575/"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Framework Symfony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Logiciel ERP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Langage propriétaire",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Base de données propriétaire",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Doctrine",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Twig",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conception de logiciels",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement de logiciels",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion des services informatiques",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Assistance aux utilisateurs à distance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion de projet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion d’équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cohésion d’équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Coordination du recrutement de personnel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planification du personnel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planification, budgétisation et prévision",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enregistrement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Composition",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Groupe musical",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arts du spectacle",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion de projet artistique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fret",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DE de professeur de clarinette",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enseignement musical",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Musique de chambre",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Partage des connaissances",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Théorie de la musique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Maintenance et réparation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Production musicale",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Musique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enregistrement audio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Orchestre",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Montage vidéo",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Musique classique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion du matériel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pédagogie par projet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enseignement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arrangement musical",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Comédie musicale",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
