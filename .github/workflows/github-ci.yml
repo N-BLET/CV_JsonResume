@@ -1,0 +1,38 @@
+name: Build and Deploy Resume
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16' # Utilisez la version Node.js que vous souhaitez
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Render resume
+        run: npx resumed render resume.json --theme mooser
+
+      - name: Deploy to GitHub Pages
+        run: |
+          mkdir public
+          mv resume.html public/index.html
+          echo '<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=/public/index.html"></head></html>' > index.html
+        # Ce fichier "index.html" redirige les visiteurs vers la page publique générée
+
+      - name: Upload to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
