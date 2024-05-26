@@ -3,10 +3,10 @@
   "basics": {
     "name": "Nicolas BLET",
     "label": "Développeur back-end",
-    "image": "",
+    "image": "./img/photo.jpg",
     "email": "nicolas.blet@hotmail.com",
     "phone": "06.63.49.03.39.",
-    "url": "",
+    "url": "https://nicolasblet.fr",
     "summary": "Je suis actuellement en alternance en tant que développeur chez ABAS-FORTERRO (entreprise d’erp) en pleine reconversion professionnelle, tout en poursuivant un bachelor devops à l'EPSI. J'ai repris mes études en 2020 au CNAM pour décrocher un RNCP de niveau 5 en développement informatique. Mon parcours professionnel précédent m'a permis d'acquérir des compétences en tant que responsable SIC, chef d'équipe, et gestionnaire d'équipement, de maintenance et d'approvisionnement au sein du ministère des armées. Je suis convaincu que ces compétences, combinées à ma réorientation professionnelle, seront un atout précieux pour votre entreprise.",
     "location": {
       "countryCode": "FR",
@@ -27,7 +27,7 @@
       "startDate": "2023-09-30",
       "endDate": "",
       "highlights": [],
-      "url": "https://www.linkedin.com/company/abas-france/",
+      "url": "https://www.forterro.com/en/product/abas",
       "location": "Lyon, Auvergne-Rhône-Alpes, France"
     },
     {
@@ -37,7 +37,7 @@
       "endDate": "2023-08-31",
       "highlights": [],
       "summary": "Développement d’un logiciel d’envergure nationale pour assurer la gestion des différents parcs instrumentaux des musiques militaires de l’armée de Terre.\nTechno : PHP, Symfony, Doctrine et Twig",
-      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "url": "https://www.youtube.com/watch?v=o_iM0QOMVxg",
       "location": "Rennes, Bretagne, France"
     },
     {
@@ -47,7 +47,7 @@
       "endDate": "2023-05-31",
       "highlights": [],
       "summary": "Responsable du pupitre des clarinettes (10 personnes) de la musique militaire de Lyon.\n• Gestion de l’effectif.\n• Répartition des missions\n• Adhésion de tous aux projets de l’orchestre.\n• Coordination du recrutement",
-      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "url": "https://www.facebook.com/MusiqueArtillerie/",
       "location": "Lyon, Auvergne-Rhône-Alpes, France"
     },
     {
@@ -86,7 +86,7 @@
       "endDate": "2015-08-31",
       "highlights": [],
       "summary": "Musique Principale de l'Armée de Terre",
-      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "url": "https://www.facebook.com/MPTDM/",
       "location": "Versailles"
     },
     {
@@ -96,7 +96,7 @@
       "endDate": "2010-07-31",
       "highlights": [],
       "summary": "Musique des Transmissions",
-      "url": "https://www.linkedin.com/company/armee-de-terre/",
+      "url": "https://www.youtube.com/watch?v=-LnAkyVKDtQ",
       "location": "Versailles, Île-de-France, France"
     },
     {
@@ -114,7 +114,7 @@
       "startDate": "2016-01-31",
       "endDate": "2020-09-30",
       "highlights": [],
-      "url": "",
+      "url": "https://centre-musical-artistique.org/",
       "location": "Saint-Genis-Laval, Rhône-Alpes, France"
     },
     {
@@ -124,7 +124,7 @@
       "endDate": "2020-07-31",
       "highlights": [],
       "summary": "Groupe lyonnais de variété française",
-      "url": "",
+      "url": "https://www.facebook.com/LesGlobeGratteurs",
       "location": "Lyon, Auvergne-Rhône-Alpes, France"
     },
     {
@@ -134,7 +134,7 @@
       "endDate": "2015-09-30",
       "highlights": [],
       "summary": "Klar’Event était un quintette de clarinettes et percussions. Ce groupe proposait spectacles, concerts, présentations d’instruments, et soirée privée.",
-      "url": "",
+      "url": "https://www.youtube.com/@KlareventFr",
       "location": "Paris et périphérie"
     },
     {
@@ -143,7 +143,7 @@
       "startDate": "2011-12-31",
       "endDate": "2015-09-30",
       "highlights": [],
-      "url": ""
+      "url": "https://www.lemonstreorchestra.com/"
     },
     {
       "name": "Ecole de musique du Chesnay (78)",
@@ -151,7 +151,7 @@
       "startDate": "2009-09-30",
       "endDate": "2015-08-31",
       "highlights": [],
-      "url": "",
+      "url": "https://www.ecole-musique-chesnay.com/",
       "location": "Le Chesnay, Île-de-France, France"
     },
     {
@@ -184,11 +184,11 @@
       "courses": []
     },
     {
-      "institution": "Sololearn",
-      "area": "Développement web",
+      "institution": "ENM d'AULNAY/BOIS",
+      "area": "",
       "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2004-12-31",
+      "endDate": "2005-12-31",
       "score": "",
       "courses": []
     },
@@ -209,30 +209,15 @@
       "endDate": "2007-12-31",
       "score": "",
       "courses": []
-    },
-    {
-      "institution": "ENM d'AULNAY/BOIS",
-      "area": "",
-      "studyType": "",
-      "startDate": "2004-12-31",
-      "endDate": "2005-12-31",
-      "score": "",
-      "courses": []
     }
   ],
   "awards": [],
   "certificates": [
     {
-      "name": "L'essentiel de Java",
-      "issuer": "LinkedIn",
-      "startDate": "2024-03-31",
-      "url": "https://www.linkedin.com/learning/certificates/b6a309baab3aca5aa66ca249c008b1c10c0f79d3d192d3f6f93ef1409c399b42?trk=flagship-lil_details_certification"
-    },
-    {
-      "name": "MOOC - Sécurité des systèmes d'information",
-      "issuer": "ANSSI - Agence nationale de la sécurité des systèmes d'information",
-      "startDate": "2022-11-30",
-      "url": "https://1drv.ms/b/s!Anvag74D4iR_oBn8Sk1EZtZAmefc?e=ApQ2mv"
+      "name": "Diplôme d’État de professeur de clarinette",
+      "issuer": "Ministère de la Culture",
+      "startDate": "2013-07-31",
+      "url": "https://www.francecompetences.fr/recherche/rncp/27575/"
     },
     {
       "name": "Certificat professionnel de musicien d’orchestre Niveau 6 (Bac +4)",
@@ -241,10 +226,16 @@
       "url": "https://www.francecompetences.fr/recherche/rncp/15337/"
     },
     {
-      "name": "Diplôme d’État de professeur de clarinette",
-      "issuer": "Ministère de la Culture",
-      "startDate": "2013-07-31",
-      "url": "https://www.francecompetences.fr/recherche/rncp/27575/"
+      "name": "MOOC - Sécurité des systèmes d'information",
+      "issuer": "ANSSI - Agence nationale de la sécurité des systèmes d'information",
+      "startDate": "2022-11-30",
+      "url": "https://1drv.ms/b/s!Anvag74D4iR_oBn8Sk1EZtZAmefc?e=ApQ2mv"
+    },
+    {
+      "name": "L'essentiel de Java",
+      "issuer": "LinkedIn",
+      "startDate": "2024-03-31",
+      "url": "https://www.linkedin.com/learning/certificates/b6a309baab3aca5aa66ca249c008b1c10c0f79d3d192d3f6f93ef1409c399b42"
     }
   ],
   "publications": [],
@@ -260,22 +251,7 @@
       "keywords": []
     },
     {
-      "name": "Java",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Logiciel ERP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Langage propriétaire",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Base de données propriétaire",
+      "name": "Twig",
       "level": "",
       "keywords": []
     },
@@ -285,7 +261,7 @@
       "keywords": []
     },
     {
-      "name": "Twig",
+      "name": "Java",
       "level": "",
       "keywords": []
     },
@@ -296,6 +272,11 @@
     },
     {
       "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Logiciel ERP",
       "level": "",
       "keywords": []
     },
@@ -315,22 +296,12 @@
       "keywords": []
     },
     {
-      "name": "Assistance aux utilisateurs à distance",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Gestion de projet",
       "level": "",
       "keywords": []
     },
     {
       "name": "Gestion d’équipe",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cohésion d’équipe",
       "level": "",
       "keywords": []
     },
@@ -343,6 +314,11 @@
       "name": "Planification du personnel",
       "level": "",
       "keywords": []
+    },  
+    {
+      "name": "Cohésion d’équipe",
+      "level": "",
+      "keywords": []
     },
     {
       "name": "Planification, budgétisation et prévision",
@@ -350,22 +326,7 @@
       "keywords": []
     },
     {
-      "name": "Enregistrement",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Composition",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Groupe musical",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Arts du spectacle",
+      "name": "Fret",
       "level": "",
       "keywords": []
     },
@@ -375,7 +336,32 @@
       "keywords": []
     },
     {
-      "name": "Fret",
+      "name": "Enregistrement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enregistrement audio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Production musicale",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Composition",
+      "level": "",
+      "keywords": []
+    },  
+    {
+      "name": "Groupe musical",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arts du spectacle",
       "level": "",
       "keywords": []
     },
@@ -405,22 +391,7 @@
       "keywords": []
     },
     {
-      "name": "Maintenance et réparation",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Production musicale",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Musique",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Enregistrement audio",
       "level": "",
       "keywords": []
     },
@@ -436,11 +407,6 @@
     },
     {
       "name": "Musique classique",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gestion du matériel",
       "level": "",
       "keywords": []
     },
@@ -468,7 +434,7 @@
   "languages": [
     {
       "language": "fr",
-      "fluency": "Native Speaker"
+      "fluency": "Langue maternelle"
     }
   ],
   "interests": [],
