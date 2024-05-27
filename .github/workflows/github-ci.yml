@@ -37,23 +37,20 @@ jobs:
         run: |
           mkdir public
           mv resume.html public/index.html
-        
-       - name: Debug GitHub Pages Deployment
-          env:
-            GITHUB_TOKEN: ${{ secrets.CV_GITHUB_TOKEN }}
-          run: |
-            echo "GitHub Token:"
-            echo $GITHUB_TOKEN
-            echo "Files in publish_dir:"
-            ls -l ./public
-            echo "Git status:"
-            git status
+      
+      - name: Debug GitHub Pages Deployment
+        env:
+          GITHUB_TOKEN: ${{ secrets.CV_GITHUB_TOKEN }}
+        run: |
+          echo "GitHub Token:"
+          echo $GITHUB_TOKEN
+          echo "Files in publish_dir:"
+          ls -l ./public
+          echo "Git status:"
+          git status
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.CV_GITHUB_TOKEN }}
           publish_dir: ./public
-
-     
-
