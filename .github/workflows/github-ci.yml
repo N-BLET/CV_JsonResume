@@ -15,7 +15,11 @@ jobs:
       
       - name: Debug Git
         run: |
+          echo "Git version:"
+          git --version
+          echo "Git config:"
           git config --list
+          echo "Git status:"
           git status
 
       - name: Set up Node.js
