@@ -31,7 +31,7 @@ jobs:
         run: npm install
 
       - name: Render resume
-        run:  npx resumed render resume.json --theme mooser
+        run: npx resume-cli export --theme mooser --format html resume.html
 
       - name: Prepare public directory
         run: |
