@@ -43,3 +43,15 @@ jobs:
         with:
           github_token: ${{ secrets.CV_GITHUB_TOKEN }}
           publish_dir: ./public
+
+      - name: Debug GitHub Pages Deployment
+        env:
+          GITHUB_TOKEN: ${{ secrets.CV_GITHUB_TOKEN }}
+        run: |
+          echo "GitHub Token:"
+          echo $GITHUB_TOKEN
+          echo "Files in publish_dir:"
+          ls -l ./public
+          echo "Git status:"
+          git status
+
