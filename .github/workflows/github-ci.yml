@@ -11,12 +11,17 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+      
+      - name: Debug Git
+        run: |
+          git config --list
+          git status
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 'lts/*'
+          node-version: '20'
 
       - name: Install dependencies
         run: npm install
