@@ -43,7 +43,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.CV_GITHUB_TOKEN }}
         run: |
           echo "GitHub Token:"
-          echo $GITHUB_TOKEN
+          echo $CV_GITHUB_TOKEN
           echo "Files in publish_dir:"
           ls -l ./public
           echo "Git status:"
