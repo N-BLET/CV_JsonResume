@@ -1,60 +1,3 @@
-# name: Build and Deploy Resume
-
-# on:
-#   push:
-#     branches:
-#       - master
-
-# jobs:
-#   build:
-#     runs-on: ubuntu-latest
-
-#     steps:
-#       - name: Checkout code
-#         uses: actions/checkout@v3
-      
-#       - name: Debug Git
-#         run: |
-#           echo "Git version:"
-#           git --version
-#           echo "Git config:"
-#           git config --list
-#           echo "Git status:"
-#           git status
-
-#       - name: Set up Node.js
-#         uses: actions/setup-node@v3
-#         with:
-#           node-version: '20'
-
-#       - name: Install dependencies
-#         run: npm install
-
-#       - name: Render resume
-#         run: npx resume-cli export --theme mooser --format html resume.html
-
-#       - name: Prepare public directory
-#         run: |
-#           mkdir public
-#           mv resume.html public/index.html
-      
-#       - name: Debug GitHub Pages Deployment
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN_CV_Json}}
-#         run: |
-#           echo "GitHub Token:"
-#           echo $CV_GITHUB_TOKEN
-#           echo "Files in publish_dir:"
-#           ls -l ./public
-#           echo "Git status:"
-#           git status
-
-#       - name: Deploy to GitHub Pages
-#         uses: peaceiris/actions-gh-pages@v3
-#         with:
-#           github_token: ${{ secrets.GIT_TOKEN_CV_Json }}
-#           publish_dir: ./public
-
 name: Build and Deploy Resume
 
 on:
@@ -79,10 +22,14 @@ jobs:
         run: npm install
 
       - name: Export resume
-        run: npx resume-cli export --theme mooser --format html index.html
+        run: npm run build
+      
+      - name: Move & rename file
+        run: mv resume.html index.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
+          publish_branch: gh-pages

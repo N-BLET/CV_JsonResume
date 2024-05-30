@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build": "npx resume-cli export --theme mooser --format html resume.html"
+  },
+
   "dependencies": {
     "jsonresume-theme-mooser": "^0.2.7",
     "resume": "^0.0.1",
