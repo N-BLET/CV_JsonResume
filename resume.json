@@ -27,6 +27,7 @@
       "startDate": "2023-09-30",
       "endDate": "",
       "highlights": [],
+      "summary": "En tant que développeur, mes principales responsabilités sont :\n\n\t•\tPersonnalisation de l’ERP selon les besoins spécifiques des clients, garantissant une solution sur mesure qui répond à leurs exigences.\n\n\t•\tDéploiement et intégration de modules ERP, optimisant ainsi les processus et les performances de l’entreprise.\n\n\t•\tRéalisation de tests fonctionnels pour assurer la fiabilité et l’efficacité des solutions mises en place.\n\n       •      Élaboration d’une documentation technique",
       "url": "https://www.forterro.com/en/product/abas",
       "location": "Lyon, Auvergne-Rhône-Alpes, France"
     },
@@ -262,6 +263,11 @@
     },
     {
       "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
       "level": "",
       "keywords": []
     },
