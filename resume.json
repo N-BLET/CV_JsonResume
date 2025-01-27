@@ -7,7 +7,7 @@
     "email": "nicolas.blet@hotmail.com",
     "phone": "06.63.49.03.39.",
     "url": "https://nicolasblet.fr",
-    "summary": "Je suis actuellement en alternance en tant que développeur chez ABAS-FORTERRO (entreprise d’erp) en pleine reconversion professionnelle, tout en poursuivant un bachelor devops à l'EPSI. J'ai repris mes études en 2020 au CNAM pour décrocher un RNCP de niveau 5 en développement informatique. Mon parcours professionnel précédent m'a permis d'acquérir des compétences en tant que responsable SIC, chef d'équipe, et gestionnaire d'équipement, de maintenance et d'approvisionnement au sein du ministère des armées. Je suis convaincu que ces compétences, combinées à ma réorientation professionnelle, seront un atout précieux pour votre entreprise.",
+    "summary": "Développeur diplômé d’un bachelor et d’un RNCP de niveau 6 en Conception et Développement d’Applications, j’ai terminé mon alternance chez ABAS-FORTERRO et j’ai rejoint Active Développement à Lyon en tant que développeur FileMaker. Avant ma réorientation, j’ai travaillé au sein du ministère des Armées, où j’ai géré une équipe de 10 personnes pendant 5 ans, tout en acquérant des compétences en gestion, maintenance et approvisionnement. Je combine aujourd’hui cette expérience managériale avec mes nouvelles compétences en développement informatique.",
     "location": {
       "countryCode": "FR",
       "address": "29 rue des Halles\n69230 ST GENIS LAVAL"
@@ -22,10 +22,20 @@
   },
   "work": [
     {
+      "name": "Active Développement",
+      "position": "Analyste-Programmeur",
+      "startDate": "2024-10-07",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Analyste-programmeur FileMaker, spécialisé dans la création d'applications sur mesure pour répondre aux besoins spécifiques des clients, en optimisant les processus métier et en garantissant une solution personnalisée et efficace.",
+      "url": "https://actived.fr/",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
       "name": "ABAS France",
       "position": "Développeur",
       "startDate": "2023-09-30",
-      "endDate": "",
+      "endDate": "2024-09-30",
       "highlights": [],
       "summary": "En tant que développeur, mes principales responsabilités sont :\n\n\t•\tPersonnalisation de l’ERP selon les besoins spécifiques des clients, garantissant une solution sur mesure qui répond à leurs exigences.\n\n\t•\tDéploiement et intégration de modules ERP, optimisant ainsi les processus et les performances de l’entreprise.\n\n\t•\tRéalisation de tests fonctionnels pour assurer la fiabilité et l’efficacité des solutions mises en place.\n\n       •      Élaboration d’une documentation technique",
       "url": "https://www.forterro.com/en/product/abas",
@@ -214,6 +224,12 @@
   ],
   "awards": [],
   "certificates": [
+    {
+      "name": "RNCP de niveau 6 de Concepteur, Développeur d'applications",
+      "issuer": "Ministère du travail et de l'emploi",
+      "startDate": "2024-09-31",
+      "url": "https://www.francecompetences.fr/recherche/rncp/37873/"
+    },
     {
       "name": "Diplôme d’État de professeur de clarinette",
       "issuer": "Ministère de la Culture",
