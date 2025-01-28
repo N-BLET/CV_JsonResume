@@ -195,15 +195,6 @@
       "courses": []
     },
     {
-      "institution": "ENM d'AULNAY/BOIS",
-      "area": "",
-      "studyType": "",
-      "startDate": "2004-12-31",
-      "endDate": "2005-12-31",
-      "score": "",
-      "courses": []
-    },
-    {
       "institution": "CRR de CRETEIL",
       "area": "Clarinette basse",
       "studyType": "",
@@ -214,7 +205,7 @@
     },
     {
       "institution": "CRR de TOURS (37)",
-      "area": "",
+      "area": "Clarinette",
       "studyType": "Premier prix de clarinette",
       "startDate": "2001-12-31",
       "endDate": "2007-12-31",
@@ -226,231 +217,105 @@
   "certificates": [
     {
       "name": "RNCP de niveau 6 de Concepteur, Développeur d'applications",
-      "issuer": "Ministère du travail et de l'emploi",
-      "startDate": "2024-09-31",
+      "date": "2024-09-27",
+      "issuer": "EPSI",
       "url": "https://www.francecompetences.fr/recherche/rncp/37873/"
     },
     {
-      "name": "Diplôme d’État de professeur de clarinette",
-      "issuer": "Ministère de la Culture",
-      "startDate": "2013-07-31",
-      "url": "https://www.francecompetences.fr/recherche/rncp/27575/"
+      "name": "RNCP de niveau 5 de Concepteur, Développeur de solutions informatiques 'applications",
+      "date": "2024-05-27",
+      "issuer": "CNAM",
+      "url": "https://www.francecompetences.fr/recherche/rncp/37506/"
     },
     {
       "name": "Certificat professionnel de musicien d’orchestre Niveau 6 (Bac +4)",
+      "date": "2014-03-31",
       "issuer": "Ministère des Armées",
-      "startDate": "2014-03-31",
       "url": "https://www.francecompetences.fr/recherche/rncp/15337/"
     },
     {
-      "name": "MOOC - Sécurité des systèmes d'information",
-      "issuer": "ANSSI - Agence nationale de la sécurité des systèmes d'information",
-      "startDate": "2022-11-30",
-      "url": "https://1drv.ms/b/s!Anvag74D4iR_oBn8Sk1EZtZAmefc?e=ApQ2mv"
-    },
-    {
-      "name": "L'essentiel de Java",
-      "issuer": "LinkedIn",
-      "startDate": "2024-03-31",
-      "url": "https://www.linkedin.com/learning/certificates/b6a309baab3aca5aa66ca249c008b1c10c0f79d3d192d3f6f93ef1409c399b42"
+      "name": "Diplôme d’État de professeur de clarinette",
+      "date": "2013-07-31",
+      "issuer": "Ministère de la Culture",
+      "url": "https://www.francecompetences.fr/recherche/rncp/27575/"
     }
   ],
   "publications": [],
   "skills": [
     {
-      "name": "PHP",
-      "level": "",
-      "keywords": []
+      "name": "Back-end programming languages",
+      "level": "Avancé",
+      "keywords": ["PHP" , "Java", "SQL"]
     },
     {
-      "name": "Framework Symfony",
-      "level": "",
-      "keywords": []
+      "name": "Front-end programming languages",
+      "level": "Avancé",
+      "keywords": ["HTML", "CSS"]
     },
     {
-      "name": "Twig",
-      "level": "",
-      "keywords": []
+      "name": "Écosystème Symfony",
+      "level": "Avancé",
+      "keywords": ["Symfony", "Doctrine", "Twig"]
     },
     {
-      "name": "Doctrine",
-      "level": "",
-      "keywords": []
+      "name": "FileMaker",
+      "level": "Avancé",
+      "keywords": ["Conception", "Développement", "Maintenance"]
     },
     {
-      "name": "Java",
+      "name": "Cycle de vie du logiciel",
       "level": "",
-      "keywords": []
+      "keywords": ["Conception", "Développement", "Maintenance"]
     },
     {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
+      "name": "OS",
+      "level": "Intermédiaire",
+      "keywords": ["Windows", "Linux"]
     },
     {
-      "name": "Microsoft Excel",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Word",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Logiciel ERP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Conception de logiciels",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Développement de logiciels",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gestion des services informatiques",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gestion de projet",
-      "level": "",
-      "keywords": []
-    },
+      "name": "Pack Office",
+      "level": "Avancé",
+      "keywords": ["Excel", "Word", "PowerPoint"]
+    },    
     {
       "name": "Gestion d’équipe",
-      "level": "",
-      "keywords": []
+      "level": "Avancé",
+      "keywords": ["Management", "Recrutement"]
     },
     {
-      "name": "Coordination du recrutement de personnel",
-      "level": "",
-      "keywords": []
+      "name": "Gestion de projet ",
+      "level": "Avancé",
+      "keywords": ["Informatique", "Artistique", "Musical","Pédagogique"]
     },
     {
-      "name": "Planification du personnel",
-      "level": "",
-      "keywords": []
-    },  
-    {
-      "name": "Cohésion d’équipe",
-      "level": "",
-      "keywords": []
+      "name": "Gestion de parc informatique",
+      "level": "Avancé",
+      "keywords": ["Acquisition", "Renouvellement", "Réforme"]
     },
     {
-      "name": "Planification, budgétisation et prévision",
-      "level": "",
-      "keywords": []
+      "name": "Gestion de stock",
+      "level": "Avancé",
+      "keywords": ["Approvisionnement", "Réception", "Stockage"]
     },
     {
-      "name": "Fret",
-      "level": "",
-      "keywords": []
+      "name": "Gestion de fret",
+      "level": "Avancé",
+      "keywords": ["National", "International"]
     },
     {
-      "name": "Gestion de projet artistique",
-      "level": "",
-      "keywords": []
+      "name": "Gestion de parc instrumental",
+      "level": "Avancé",
+      "keywords": ["Acquisition", "Renouvellement", "Réforme", "Maintenance"]
     },
     {
-      "name": "Enregistrement",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Enregistrement audio",
-      "level": "",
-      "keywords": []
+      "name": "Pédagogie",
+      "level": "Avancé",
+      "keywords": ["Musique", "Informatique"]
     },
     {
       "name": "Production musicale",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Composition",
-      "level": "",
-      "keywords": []
-    },  
-    {
-      "name": "Groupe musical",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Arts du spectacle",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "DE de professeur de clarinette",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Enseignement musical",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Musique de chambre",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Partage des connaissances",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Théorie de la musique",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Musique",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Orchestre",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Montage vidéo",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Musique classique",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Pédagogie par projet",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Enseignement",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Arrangement musical",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Comédie musicale",
-      "level": "",
-      "keywords": []
+      "level": "Avancé",
+      "keywords": ["Enregistrement audio", "Montage vidéo"]
     }
   ],
   "languages": [
