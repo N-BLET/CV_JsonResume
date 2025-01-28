@@ -17,6 +17,11 @@
         "network": "LinkedIn",
         "username": "nicolas-blet-5720b859",
         "url": "https://www.linkedin.com/in/nicolas-blet-5720b859/"
+      },
+      {
+        "network": "GitHub",
+        "username": "N-BLET",
+        "url": "https://github.com/N-BLET"
       }
     ]
   },
@@ -197,7 +202,7 @@
     {
       "institution": "CRR de CRETEIL",
       "area": "Clarinette basse",
-      "studyType": "",
+      "studyType": "Cycle de perfectionnement",
       "startDate": "2009-12-31",
       "endDate": "2010-12-31",
       "score": "",
@@ -213,7 +218,32 @@
       "courses": []
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "RNCP de niveau 6 de Concepteur, Développeur d'applications",
+      "date": "2024-09-27",
+      "awarder": "EPSI",
+      "url": "https://www.francecompetences.fr/recherche/rncp/37873/"
+    },
+    {
+      "title": "RNCP de niveau 5 de Concepteur, Développeur de solutions informatiques 'applications",
+      "date": "2024-05-27",
+      "awarder": "CNAM",
+      "url": "https://www.francecompetences.fr/recherche/rncp/37506/"
+    },
+    {
+      "title": "Certificat professionnel de musicien d’orchestre Niveau 6 (Bac +4)",
+      "date": "2014-03-31",
+      "awarder": "Ministère des Armées",
+      "url": "https://www.francecompetences.fr/recherche/rncp/15337/"
+    },
+    {
+      "title": "Diplôme d’État de professeur de clarinette",
+      "date": "2013-07-31",
+      "awarder": "Ministère de la Culture",
+      "url": "https://www.francecompetences.fr/recherche/rncp/27575/"
+    }
+  ],
   "certificates": [
     {
       "name": "RNCP de niveau 6 de Concepteur, Développeur d'applications",
